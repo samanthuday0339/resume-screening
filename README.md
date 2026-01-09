@@ -51,7 +51,7 @@ The model achieved high accuracy on the test dataset:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/resume-screening.git](https://github.com/your-username/resume-screening.git)
+    git clone https://github.com/samanthuday0339/resume-screening
     cd resume-screening
     ```
 
